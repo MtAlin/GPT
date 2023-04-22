@@ -1,0 +1,413 @@
+.bg-container {
+  background-color: #040c18;
+}
+.btn-search {
+  background-color: #ff4820;
+  border-radius: 5px;
+  width: 152px;
+  height: 58px;
+  border: none;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+}
+.navbar-light .navbar-brand {
+  color: #ffffff;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 28px;
+  font-weight: 800;
+  margin-right: 3rem;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #ffffff;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+}
+.btn-signIn {
+  color: #ffffff;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  background: none;
+  padding: 1rem;
+  border: none;
+}
+.navbar-light .navbar-toggler {
+  background-color: #ff4820;
+}
+
+h1 {
+  background: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 800;
+  line-height: 65px;
+  font-size: 55px;
+  font-family: "Manrope";
+}
+p {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  color: #81afdd;
+}
+.form-control {
+  background-color: #052d56;
+  border: none;
+}
+.request-people {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 38px;
+  margin-left: 1rem;
+  margin-bottom: 0;
+}
+.cp-lg {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+.whatIs {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background-color: #042c54;
+}
+hr {
+  width: 38px;
+  height: 2px;
+  background: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
+  color: #ffffff;
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.whatIs h5 {
+  color: #ffffff;
+  margin: 0;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 25px;
+}
+.whatIs h3 {
+  background: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%),
+    #ffffff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 34px;
+  line-height: 45px;
+}
+.whatIs p {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0;
+  margin-top: 35px;
+}
+.whatIs .explore {
+  margin: 0;
+  text-align: right;
+  color: #ff8a71;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.feature hr {
+  width: 38px;
+  height: 2px;
+  background: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
+  color: #ffffff;
+  margin-bottom: 4px;
+}
+.feature p {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0;
+}
+.feature h5 {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.04em;
+  color: #ffffff;
+}
+.feature-col {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: space-between;
+}
+.feature-col div {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  justify-content: space-between;
+}
+@media only screen and (max-width: 991px) {
+  .feature-col div {
+    padding-left: 0rem;
+  }
+  .whatIs p {
+    margin-top: 2px;
+  }
+}
+
+.feature h3 {
+  background: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%),
+    #ffffff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 34px;
+  line-height: 45px;
+  padding-bottom: 20px;
+}
+.feature2-first-p {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  color: #71e5ff;
+}
+.early {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  color: #ff8a71;
+}
+.feature2 p {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+.feature2 h3 {
+  background: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%),
+    #ffffff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 34px;
+  line-height: 45px;
+  padding-bottom: 10px;
+  padding-right: 9rem;
+}
+.feature2-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  gap: 15px;
+}
+.rectangle {
+  background: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10.7236px;
+}
+.rectangle p {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 30px;
+  color: #0e0e0e;
+}
+.rectangle .col-lg-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.rectangle h3 {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 45px;
+  color: #000000;
+}
+.rectangle button {
+  background: #000000;
+  border-radius: 40px;
+  width: 200px;
+  padding: 10px;
+  color: #ffffff;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+}
+.blog .card {
+  background-color: #040c18;
+}
+.blog .card-body {
+  background-color: #042c54;
+}
+.blog .row {
+  display: flex;
+  gap: 30px;
+}
+.blog .card1 {
+  display: flex;
+  gap: 30px;
+  padding: 0;
+}
+.blog .card2 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 0;
+}
+.blog .card3 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 0;
+}
+.blog p {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 11.649px;
+  line-height: 35px;
+  color: #ffffff;
+  margin: 0px;
+}
+.blog h5 {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+
+  line-height: 30px;
+  color: #ffffff;
+}
+.firstCd {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.footer {
+  background-color: #031b34;
+}
+.footer h1 {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 62px;
+  line-height: 75px;
+  /* or 121% */
+
+  text-align: center;
+  letter-spacing: -0.04em;
+
+  background: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+.footer h2 {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 900;
+  line-height: 45px;
+  color: #ffffff;
+}
+.footer p {
+  color: #ffffff;
+  font-family: "Gilroy-Medium";
+  font-size: 12px;
+  line-height: 14px;
+}
+.footer h6 {
+  font-family: "Gilroy-Bold";
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+}
+.footer ul {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.footer ul li {
+  font-family: "Gilroy-Bold";
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+  list-style-type: none;
+}
+.footer .col {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.footer button {
+  border: 1px solid #ffffff;
+  font-family: "Gilroy-Medium";
+  font-size: 18px;
+  line-height: 21px;
+  background-color: #031b34;
+  color: #ffffff;
+  width: 218px;
+  height: 65px;
+}
+.footer-align {
+  display: flex;
+  flex-direction: column;
+  padding-left: 5rem;
+}
+@media only screen and (max-width: 991px) {
+  .footer-align {
+    padding-left: 1rem;
+  }
+}
+.nav-link:hover {
+  color: white !important;
+}
+.navbar-brand:hover {
+  color: white !important;
+}
